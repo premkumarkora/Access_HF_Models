@@ -32,9 +32,7 @@ This repository provides a comprehensive Colab notebook for hands-on experimenta
 
 ```plaintext
 ├── Access_HF_Models_populated.ipynb  # Main Colab notebook with populated descriptions
-├── Access_HF_Models.ipynb            # Original notebook skeleton
-├── README.md                         # This file
-└── assets/                           # (Optional) Supporting assets or sample data
+└── README.md                         # This file
 ```
 
 - **Access_HF_Models.ipynb**: The starter notebook containing code cells for various Hugging Face pipelines, each preceded by a comment placeholder.  
